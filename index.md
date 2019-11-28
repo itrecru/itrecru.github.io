@@ -2,10 +2,11 @@
 
 HR for IT projects
 
-### Markdown
+### Open for ideas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+- @unswag
+- itrecru@pm.me
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -23,4 +24,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+-->
