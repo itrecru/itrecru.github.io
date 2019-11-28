@@ -5,7 +5,7 @@ HR for IT projects
 ### Open for job opportunities
 
 - [@unswag](https://t.me/unswag)
-- itrecru@pm.me
+- [itrecru@pm.me] (mailto:itrecru@pm.me)
 
 <!---
 
