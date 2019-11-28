@@ -4,7 +4,7 @@ HR for IT projects
 
 ### Open for job opportunities
 
-- @unswag
+- https://t.me/unswag
 - itrecru@pm.me
 
 <!---
