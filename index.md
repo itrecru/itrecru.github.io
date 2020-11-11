@@ -1,11 +1,11 @@
 ## Nikolay
 
-HR for IT projects
+Tech Researcher&Recruiter
 
 ### Open for job opportunities
 
 - [@unswag](https://t.me/unswag)
-- <itrecru@pm.me>
+- <itrecruiter.moscow@gmail.com>
 
 <!---
 
