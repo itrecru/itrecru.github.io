@@ -1,11 +1,11 @@
 ## Nikolay
 
-Tech Researcher&Recruiter
+Tech Recruiter
 
 ### Open for job opportunities
 
 - [@unswag](https://t.me/unswag)
-- <itrecruiter.moscow@gmail.com>
+- <itrecru@pm.me>
 
 <!---
 
