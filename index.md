@@ -2,9 +2,10 @@
 
 ![itrecru logo](./logo2.png)
 
-Tech Recruiter / Sourcer
+Tech Recruiter / Sourcer based in Moscow
 
-### Open for job opportunities
+### Open for job opportunities 
+with flexible schedule and remote option
 
 - [@unswag](https://t.me/unswag)
 - <itrecru@pm.me>
