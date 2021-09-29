@@ -1,6 +1,8 @@
-## Nikolay
+## Hey, I'm Nick
 
-Tech Recruiter
+![itrecru logo](./logo2.png)
+
+Tech Recruiter / Sourcer
 
 ### Open for job opportunities
 
